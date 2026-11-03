@@ -1,2 +1,0 @@
-# sunum
-for my presentation
